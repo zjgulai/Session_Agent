@@ -1,0 +1,14 @@
+# 原始语料：永不入库（本仓库不含）
+_raw/
+_archive/
+_template/
+
+# 缓存
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+
+# 编辑器
+.vscode/
+.idea/
